@@ -8,3 +8,6 @@ It uses ASP.NET Core Web API, Entity Framework and SQL server as a database.
 ChangeTracker is a web application that helps users keep track of a selected 90 day challenge. This could be anything from learning to code to deadlifting 200kg.
 It is meant to help keep track of and motivate its users to not give up on the chosen challenge.
 
+# Backend
+The backend uses ASP.NET Core Web API to help handle communication between client and server.
+It also uses Entity Framework as an (O/RM) and SQL server to store the data.
