@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7lTHtnRAB10nrkLceFFEaj9PSBkslmOF4TlFgFzzos5EBAYpk/gujAYGNAItb9bh0vGv3xinG3D8KRrvuGWPGg==",
+  "dgSpecHash": "oEzlaVJ1CcqZU3gR9Gb3E8Je+97Bpx1QdMlTuKfUTnBskCnLBEL7JFPcVsrpJ/a1nSBJkmbmDmz4XtT70+llWw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\patri\\OneDrive\\Dokument\\Programmering\\Finalproject\\FinalProjectBackend\\FinalProjectBackend\\FinalProjectBackend.csproj",
+  "projectFilePath": "C:\\Users\\patri\\OneDrive\\Dokument\\Programmering\\ChangeTracker-FinalProject\\Finalproject\\FinalProjectBackend\\FinalProjectBackend\\FinalProjectBackend.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\patri\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\patri\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",

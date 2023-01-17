@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\patri\\OneDrive\\Dokument\\Programmering\\Finalproject\\FinalProjectBackend\\FinalProjectBackend\\FinalProjectBackend.csproj": {}
+    "C:\\Users\\patri\\OneDrive\\Dokument\\Programmering\\ChangeTracker-FinalProject\\Finalproject\\FinalProjectBackend\\FinalProjectBackend\\FinalProjectBackend.csproj": {}
   },
   "projects": {
-    "C:\\Users\\patri\\OneDrive\\Dokument\\Programmering\\Finalproject\\FinalProjectBackend\\FinalProjectBackend\\FinalProjectBackend.csproj": {
+    "C:\\Users\\patri\\OneDrive\\Dokument\\Programmering\\ChangeTracker-FinalProject\\Finalproject\\FinalProjectBackend\\FinalProjectBackend\\FinalProjectBackend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\patri\\OneDrive\\Dokument\\Programmering\\Finalproject\\FinalProjectBackend\\FinalProjectBackend\\FinalProjectBackend.csproj",
+        "projectUniqueName": "C:\\Users\\patri\\OneDrive\\Dokument\\Programmering\\ChangeTracker-FinalProject\\Finalproject\\FinalProjectBackend\\FinalProjectBackend\\FinalProjectBackend.csproj",
         "projectName": "FinalProjectBackend",
-        "projectPath": "C:\\Users\\patri\\OneDrive\\Dokument\\Programmering\\Finalproject\\FinalProjectBackend\\FinalProjectBackend\\FinalProjectBackend.csproj",
+        "projectPath": "C:\\Users\\patri\\OneDrive\\Dokument\\Programmering\\ChangeTracker-FinalProject\\Finalproject\\FinalProjectBackend\\FinalProjectBackend\\FinalProjectBackend.csproj",
         "packagesPath": "C:\\Users\\patri\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\patri\\OneDrive\\Dokument\\Programmering\\Finalproject\\FinalProjectBackend\\FinalProjectBackend\\obj\\",
+        "outputPath": "C:\\Users\\patri\\OneDrive\\Dokument\\Programmering\\ChangeTracker-FinalProject\\Finalproject\\FinalProjectBackend\\FinalProjectBackend\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\patri\\AppData\\Roaming\\NuGet\\NuGet.Config",
